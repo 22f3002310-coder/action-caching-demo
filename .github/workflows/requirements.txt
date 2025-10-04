@@ -1,7 +1,0 @@
-pandas
-numpy
-fastapi
-
-git add .github/workflows/caching.yml requirements.txt
-git commit -m "feat: add workflow with dependency caching"
-git push origin main
